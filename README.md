@@ -17,7 +17,7 @@
 Website portofolio statis berbasis HTML, CSS, Bootstrap 5, dan Vue JS.  
 Website ini menampilkan informasi pribadi, pengalaman, skills, sertifikat, serta pencapaian dalam tampilan modern, responsif, dan interaktif.
 
-Project ini dibuat untuk memenuhi tugas Mini Project Mata Kuliah Pemrograman Berbasis Web.
+Project ini dibuat untuk memenuhi tugas Mini Project 1 Praktikum Pemrograman Berbasis Web.
 
 ---
 
