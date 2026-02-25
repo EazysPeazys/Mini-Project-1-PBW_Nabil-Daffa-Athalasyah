@@ -1,7 +1,11 @@
 <h1 align="center">🌐 Nabdaff Portfolio Website</h1>
 
 <p align="center">
-Mini Project 1 - Pemrograman Berbasis Web (PBW)
+## 👤 Informasi Project
+
+**Nama:** Nabil Daffa Athalasyah  
+**NIM:** 2409116090  
+**Kelas:** C 2024 
 </p>
 
 ---
