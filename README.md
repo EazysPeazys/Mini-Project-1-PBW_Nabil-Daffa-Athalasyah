@@ -2,10 +2,10 @@
 
 ## 👤 Informasi Project
 
-**Nama: Nabil Daffa Athalasyah  
-NIM: 2409116090  
-Kelas: C 2024
-Mini Project Pemrograman Berbasis Web**
+**Nama: Nabil Daffa Athalasyah**
+**NIM: 2409116090 ** 
+**Kelas: C 2024**
+**Mini Project Pemrograman Berbasis Web**
 
 ---
 
