@@ -21,7 +21,7 @@ Project ini dibuat untuk memenuhi tugas Mini Project Mata Kuliah Pemrograman Ber
 
 ## 🧭 1. Navbar
 
-<img src="assets/navbar.png" width="100%">
+<img width="1885" height="179" alt="image" src="https://github.com/user-attachments/assets/b5f4b78c-b8f7-457b-a468-249ce9e8b01e" />
 
 ### 📌 Penjelasan
 Navbar digunakan untuk navigasi antar section: Home, About, Certificates, dan Achievements.
@@ -44,9 +44,9 @@ Navbar memiliki efek blur dan perubahan background saat discroll.
 
 ---
 
-## 🏠 2. Home (Hero Section)
+## 🏠 2. Home (Halaman Utama)
 
-<img src="assets/home.png" width="100%">
+<img width="1883" height="905" alt="image" src="https://github.com/user-attachments/assets/46713f6c-05ad-447f-965c-eccb84b24d25" />
 
 ### 📌 Penjelasan
 Section pembuka yang menampilkan:
@@ -93,7 +93,7 @@ document.addEventListener("mousemove", e => {
 
 ## 👤 3. About Me
 
-<img src="assets/about.png" width="100%">
+<img width="1888" height="911" alt="image" src="https://github.com/user-attachments/assets/c2c26f5a-d6a8-4ac7-9457-932aec52e713" />
 
 ### 📌 Penjelasan
 Section ini berisi:
@@ -128,9 +128,9 @@ Progress bar diatur secara dinamis berdasarkan nilai `skill.level`.
 
 ---
 
-## 🏆 4. Certificates Section
+## 🏆 4. Certificates
 
-<img src="assets/certificates.png" width="100%">
+<img width="1881" height="911" alt="image" src="https://github.com/user-attachments/assets/ef9d69c0-60d0-4454-89af-d0dc99b46e67" />
 
 ### 📌 Penjelasan
 Menampilkan daftar sertifikat dalam bentuk card grid layout.
@@ -167,9 +167,9 @@ myModal.show()
 
 ---
 
-## 🥇 5. Achievements Section
+## 🥇 5. Achievements
 
-<img src="assets/achievements.png" width="100%">
+<img width="1887" height="910" alt="image" src="https://github.com/user-attachments/assets/fcbe7001-c70b-4e89-b957-cbea5ad51f0e" />
 
 ### 📌 Penjelasan
 Menampilkan daftar penghargaan dalam bentuk card layout.
@@ -183,7 +183,7 @@ v-for="award in awards"
 
 Menampilkan:
 - Judul penghargaan
-- Organisasi
+- Instansi
 - Tahun
 
 Card memiliki:
@@ -283,7 +283,4 @@ Seluruh fitur wajib telah terpenuhi:
 
 <p align="center">
 ✨ Mini Project Pemrograman Berbasis Web - By Nabil Daffa Athalasyah ✨
-</p>
-<p align="center">
-✨ Mini Project PBW - 2026 ✨
 </p>
