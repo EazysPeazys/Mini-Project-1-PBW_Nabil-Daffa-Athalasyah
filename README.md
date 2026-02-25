@@ -21,7 +21,7 @@ Project ini dibuat untuk memenuhi tugas Mini Project Mata Kuliah Pemrograman Ber
 
 ## 🧭 1. Navbar
 
-<img width="1885" height="179" alt="image" src="https://github.com/user-attachments/assets/b5f4b78c-b8f7-457b-a468-249ce9e8b01e" />
+<img width="1889" height="187" alt="image" src="https://github.com/user-attachments/assets/daf79ba4-b40c-482f-8aba-f588dcd3026c" />
 
 ### 📌 Penjelasan
 Navbar digunakan untuk navigasi antar section: Home, About, Certificates, dan Achievements.
